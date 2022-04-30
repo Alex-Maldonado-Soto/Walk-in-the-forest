@@ -7,8 +7,16 @@
 	box-sizing: border-box;
 }
 /*Navbar todo esl estilo del navr*/
+	<style>
+		.white {
+			color: #fff;
+		}
+	</style>
 body {
-	font-family: 'Montserrat', sans-serif;
-	overflow-x: hidden;
+	background-color: #000;
+	background-attachment: fixed;
 }
 
+.white {
+	color: #fff;
+}
