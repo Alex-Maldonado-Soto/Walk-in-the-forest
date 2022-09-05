@@ -1,2 +1,1 @@
-# proyect-bootstrap-walk-in-the-forest
-Voy a hacer un sitio web usando la libreria de bootstrap.
+Es un proyecto que hago para introducirme a la herramienta de bootstrap y acostumbrarme a usar sus herramientas.
